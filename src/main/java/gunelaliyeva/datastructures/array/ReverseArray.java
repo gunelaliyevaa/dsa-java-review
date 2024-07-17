@@ -1,4 +1,4 @@
-package gunelaliyeva.datastructures.Array;
+package gunelaliyeva.datastructures.array;
 
 public class ReverseArray {
     public static void main(String[] args) {
